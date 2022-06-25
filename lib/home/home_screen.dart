@@ -1,8 +1,5 @@
 import 'package:chat_app_ui/dummy_data.dart';
-import 'package:chat_app_ui/models/chat_model.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
-import 'package:intl/intl.dart';
 
 import 'components/add_story_card.dart';
 import 'components/bottom_button.dart';
